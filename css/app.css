@@ -1,0 +1,87 @@
+.layout{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: auto;
+	border-style: ridge;
+	border-width: 0px;
+}
+.center{
+	text-align: center;
+}
+.contact-form{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: auto;
+	border-style: ridge;
+	border-width: 1px;
+}
+.margin-left {
+	margin-left: 5px;
+}
+.margin-right {
+	margin-right: 5px;
+}
+.margin-top {
+	margin-top: 5px;
+}
+.margin-top2{
+	margin-top:15px;
+}
+.margin-bottom {
+	margin-bottom: 5px;
+}
+.margin-bottom2 {
+	margin-bottom: 5px;
+}
+.block{
+	position: relative; 
+	float: left;
+}
+.block-right{
+	position: relative; 
+	float: right;
+}
+.block-group{
+	position: relative; 
+	overflow: hidden;
+}
+.contact-image{
+	width:100px;
+	height:120px;
+}
+.save-button{
+	margin-top: 90px;
+	width: 80px;
+}
+.border {
+	border-style: inset;
+}
+.align-left{
+	float:left;
+}
+
+
+.container {
+    width: 800px;
+	
+}
+.container ul {
+    padding: 2; 
+    margin: 0;
+    list-style-type: none;
+	
+}
+.container ul li {
+    width: 350px;
+    height: 130px;
+    float: left;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	border-style: ridge;
+	border-width: 1px;
+}
+

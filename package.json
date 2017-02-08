@@ -1,0 +1,23 @@
+{
+  "name": "StorageExample",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "~1.5.2",
+    "del": "~2.0.2",
+    "ecstatic": "~1.0.0",
+    "gulp": "~3.9.0",
+    "gulp-bower": "0.0.10",
+    "gulp-concat": "~2.6.0",
+    "gulp-processhtml": "~1.1.0",
+    "gulp-rename": "~1.2.2",
+    "gulp-rev": "^6.0.1",
+    "gulp-util": "~3.0.6",
+    "main-bower-files": "~2.9.0",
+    "mkdirp": "~0.5.1",
+    "path": "~0.12.7",
+    "gulp-replace": "~0.5.4"
+  }
+ 
+
+}

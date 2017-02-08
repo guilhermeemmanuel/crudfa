@@ -1,0 +1,28 @@
+{
+  "name": "Storage Example",
+  "version": "1.0.0",
+  "description": "Storage Example",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "test"
+  ],
+  "authors": [
+    "Guilherme Emmanuel"
+  ],
+  "license": "UNLICENSED",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.5",
+    "bootstrap": "~3.3.5"
+  },
+  "resolutions": {
+    "angular": "~1.4.5"
+  }
+}
