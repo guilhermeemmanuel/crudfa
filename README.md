@@ -1,8 +1,4 @@
-# StorageExample
-Example in AngularJS
-
-Pre-requisites
-Rename Repository to StorageExample
+# crud
 
 Instructions to Run:
 
@@ -12,5 +8,6 @@ Instructions to Run:
 4. In Project Folder execute npm install gulp
 5. execute npm install
 6. execute gulp bower
-7. execute gulp run-dist
-8. access System in displayed link
+7. execute gulp build
+8. execute gulp run-dist
+9. access System in displayed link
